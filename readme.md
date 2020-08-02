@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:118036c006d29aaaa0523142cadc7da2d8eb8814d92a18ba5efa3726deb087a5
-size 32
+## Description:
+Development of a project based on the LDA algorithm and Deep Learning "NLP" to extract and analyze The discussions of Moroccan people between 2018 and 2019 on Twitter and many websites of moroccan press
+
+to contact me: ridouaniayoub@gmail.com
+
+good luck
